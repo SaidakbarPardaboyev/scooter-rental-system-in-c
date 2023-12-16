@@ -1,0 +1,6 @@
+Ism: Saidakbar
+Familiya: Pardaboyev
+Username: s2005
+Telefon_raqam: +998947160611
+ID_raqam: AD159745
+Balance: 15000.000

@@ -1,0 +1,80 @@
+Summasi = 1699.99 so'm
+Foydalangan vaqti = 1 minut
+Sana: 24.11.2023
+Vaqti: 10:46
+
+Summasi = 3399.98 so'm
+Foydalangan vaqti = 2 minut
+Sana: 24.11.2023
+Vaqti: 18:17
+
+Summasi = 5099.97 so'm
+Foydalangan vaqti = 3 minut
+Sana: 24.11.2023
+Vaqti: 19:13
+
+Summasi = 1699.99 so'm
+Foydalangan vaqti = 1 minut
+Sana: 24.11.2023
+Vaqti: 19:14
+
+Summasi = 0 so'm
+Foydalangan vaqti = 0 minut
+Sana: 24.11.2023
+Vaqti: 20:13
+
+Summasi = 3399.98 so'm
+Foydalangan vaqti = 2 minut
+Sana: 27.11.2023
+Vaqti: 14:33
+
+Summasi = 1699.99 so'm
+Foydalangan vaqti = 1 minut
+Sana: 27.11.2023
+Vaqti: 14:59
+
+Summasi = 1699.99 so'm
+Foydalangan vaqti = 1 minut
+Sana: 27.11.2023
+Vaqti: 16:19
+
+Summasi = 1699.99 so'm
+Foydalangan vaqti = 1 minut
+Sana: 27.11.2023
+Vaqti: 16:20
+
+Summasi = 1699.99 so'm
+Foydalangan vaqti = 1 minut
+Sana: 29.11.2023
+Vaqti: 10:08
+
+Summasi = 1699.99 so'm
+Foydalangan vaqti = 1 minut
+Sana: 29.11.2023
+Vaqti: 10:11
+
+Summasi = 3399.98 so'm
+Foydalangan vaqti = 2 minut
+Sana: 29.11.2023
+Vaqti: 16:04
+
+Summasi = 1699.99 so'm
+Foydalangan vaqti = 1 minut
+Sana: 29.11.2023
+Vaqti: 16:21
+
+Summasi = 3399.98 so'm
+Foydalangan vaqti = 2 minut
+Sana: 29.11.2023
+Vaqti: 17:41
+
+Summasi = 1699.99 so'm
+Foydalangan vaqti = 1 minut
+Sana: 29.11.2023
+Vaqti: 18:52
+
+Summasi = 3399.98 so'm
+Foydalangan vaqti = 2 minut
+Sana: 12.12.2023
+Vaqti: 19:46
+

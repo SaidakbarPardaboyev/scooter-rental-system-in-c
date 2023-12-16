@@ -1,0 +1,6 @@
+Ism: Iskandar
+Familiya: Iskandarov
+Username: iskandar2002
+Telefon_raqam: +998974563214
+ID_raqam: AD1597454
+Balance: 56410.580

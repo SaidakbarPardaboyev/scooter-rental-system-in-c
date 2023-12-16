@@ -1,0 +1,62 @@
+User:
+Username: Zokir15
+Password: 192837465
+User ID Number: Admin1
+Name: Zokirjon
+Surname: Isroilov
+Phone Number: +998946740000
+ID Number: AD 1754939
+
+User:
+Username: saidakbar103
+Password: 1
+User ID Number: user1
+Name: saidakbar
+Surname: Pardaboyev
+Phone Number: +998947160611
+ID Number: AD 1754939
+
+User:
+Username: erkin1
+Password: 2
+User ID Number: user2
+Name: Erkin
+Surname: Jumanazarov
+Phone Number: +998997693731
+ID Number: AD159874
+
+User:
+Username: iskandar2002
+Password: 3
+User ID Number: user3
+Name: Iskandar
+Surname: Iskandarov
+Phone Number: +998974563214
+ID Number: AD1597454
+
+User:
+Username: muhammadJon
+Password: 4
+User ID Number: user4
+Name: Muhammadjon
+Surname: Qo'palov
+Phone Number: +998974563214
+ID Number: AD1515151
+
+User:
+Username: Asad15
+Password: 151614
+User ID Number: user5
+Name: Asad
+Surname: Asadov
+Phone Number: +998974563214
+ID Number: AD1597412
+
+User:
+Username: s2005
+Password: 1
+User ID Number: user6
+Name: Saidakbar
+Surname: Pardaboyev
+Phone Number: +998947160611
+ID Number: AD159745

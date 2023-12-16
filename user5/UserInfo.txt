@@ -1,0 +1,6 @@
+Ism: Asad
+Familiya: Asadov
+Username: Asad15
+Telefon_raqam: +998974563214
+ID_raqam: AD1597412
+Balance: 0.000

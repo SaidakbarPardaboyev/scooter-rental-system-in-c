@@ -1,0 +1,6 @@
+Ism: Muhammadjon
+Familiya: Qo'palov
+Username: muhammadJon
+Telefon_raqam: +998974563214
+ID_raqam: AD1515151
+Balance: 0.000

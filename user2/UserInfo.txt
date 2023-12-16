@@ -1,0 +1,6 @@
+Ism: Erkin
+Familiya: Jumanazarov
+Username: erkin1
+Telefon_raqam: +998997693731
+ID_raqam: AD159874
+Balance: 5700.040
